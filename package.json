@@ -1,12 +1,12 @@
 {
-  "name": "Footballdee",
+  "name": "satrte",
   "theme": "syntax",
-  "version": "0.13.0",
+  "version": "0.12.0",
   "description": "แทงบอลโลก อันดับ1 สเต็ปเทพรวมทุกเว็บไซด์",
   "keywords": [
     "multi88"
   ],
-  "repository": "https://github.com/Mamaselecter/mult888.git",
+  "repository": "https://github.com/Mamaselecter/mult888-master.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
